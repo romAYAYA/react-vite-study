@@ -1,8 +1,8 @@
 export const data = [
-  { id: 1, name: 'john' },
-  { id: 2, name: 'peter' },
-  { id: 3, name: 'susan' },
-  { id: 4, name: 'anna' },
+  { id: 1, name: 'john', age: 23, hobby: 'video games' },
+  { id: 2, name: 'peter', age: 21, hobby: 'reading' },
+  { id: 3, name: 'susan', age: 13, hobby: 'homeless' },
+  { id: 4, name: 'anna', age: 54, hobby: 'grocery' },
 ]
 
 export const people = [
